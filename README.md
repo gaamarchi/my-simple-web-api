@@ -6,7 +6,7 @@
 
 -------
 # Conhecimentos aplicados
-- C# POO  
+- Asp.Net  
 - .Net Core 7
 - Dotnet EF
 - Manipulação de tabelas
