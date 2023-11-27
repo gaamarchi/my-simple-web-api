@@ -28,5 +28,5 @@
 --------
 # Como Iniciar o projeto
 - Clone o repositório e entre na pasta  
-- execute o coamndo: Dotnet run  
+- execute o comando: Dotnet run  
 - acesse a url: http://localhost:4444/swagger
