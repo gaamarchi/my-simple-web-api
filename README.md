@@ -12,7 +12,7 @@
 - Manipulação de tabelas
 - Relacionamento de tabelas 1:1, 1:n, n:n
 - CRUD API
-- Métodos HTTP (POST,GET,DEELET,PATCH,PUT)
+- Métodos HTTP (POST,GET,DELET,PATCH,PUT)
 - LINQ  
 - DTO  
 
