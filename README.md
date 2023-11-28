@@ -9,7 +9,7 @@
 - Asp.Net  
 - .Net Core 7
 - Dotnet EF
-- Manipulação de tabelas
+- Conexão com banco de dados
 - Relacionamento de tabelas 1:1, 1:n, n:n
 - CRUD API
 - Métodos HTTP (POST,GET,DELET,PATCH,PUT)
